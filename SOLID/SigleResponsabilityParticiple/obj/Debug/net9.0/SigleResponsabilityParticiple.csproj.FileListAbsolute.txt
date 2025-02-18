@@ -1,0 +1,14 @@
+D:\felipe\Projetos\ProjetosC#\SigleResponsabilityParticiple\bin\Debug\net9.0\SigleResponsabilityParticiple.exe
+D:\felipe\Projetos\ProjetosC#\SigleResponsabilityParticiple\bin\Debug\net9.0\SigleResponsabilityParticiple.deps.json
+D:\felipe\Projetos\ProjetosC#\SigleResponsabilityParticiple\bin\Debug\net9.0\SigleResponsabilityParticiple.runtimeconfig.json
+D:\felipe\Projetos\ProjetosC#\SigleResponsabilityParticiple\bin\Debug\net9.0\SigleResponsabilityParticiple.dll
+D:\felipe\Projetos\ProjetosC#\SigleResponsabilityParticiple\bin\Debug\net9.0\SigleResponsabilityParticiple.pdb
+D:\felipe\Projetos\ProjetosC#\SigleResponsabilityParticiple\obj\Debug\net9.0\SigleResponsabilityParticiple.GeneratedMSBuildEditorConfig.editorconfig
+D:\felipe\Projetos\ProjetosC#\SigleResponsabilityParticiple\obj\Debug\net9.0\SigleResponsabilityParticiple.AssemblyInfoInputs.cache
+D:\felipe\Projetos\ProjetosC#\SigleResponsabilityParticiple\obj\Debug\net9.0\SigleResponsabilityParticiple.AssemblyInfo.cs
+D:\felipe\Projetos\ProjetosC#\SigleResponsabilityParticiple\obj\Debug\net9.0\SigleResponsabilityParticiple.csproj.CoreCompileInputs.cache
+D:\felipe\Projetos\ProjetosC#\SigleResponsabilityParticiple\obj\Debug\net9.0\SigleResponsabilityParticiple.dll
+D:\felipe\Projetos\ProjetosC#\SigleResponsabilityParticiple\obj\Debug\net9.0\refint\SigleResponsabilityParticiple.dll
+D:\felipe\Projetos\ProjetosC#\SigleResponsabilityParticiple\obj\Debug\net9.0\SigleResponsabilityParticiple.pdb
+D:\felipe\Projetos\ProjetosC#\SigleResponsabilityParticiple\obj\Debug\net9.0\SigleResponsabilityParticiple.genruntimeconfig.cache
+D:\felipe\Projetos\ProjetosC#\SigleResponsabilityParticiple\obj\Debug\net9.0\ref\SigleResponsabilityParticiple.dll
