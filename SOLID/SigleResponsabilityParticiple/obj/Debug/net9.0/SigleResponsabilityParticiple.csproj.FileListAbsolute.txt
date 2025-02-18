@@ -12,3 +12,18 @@ D:\felipe\Projetos\ProjetosC#\SigleResponsabilityParticiple\obj\Debug\net9.0\ref
 D:\felipe\Projetos\ProjetosC#\SigleResponsabilityParticiple\obj\Debug\net9.0\SigleResponsabilityParticiple.pdb
 D:\felipe\Projetos\ProjetosC#\SigleResponsabilityParticiple\obj\Debug\net9.0\SigleResponsabilityParticiple.genruntimeconfig.cache
 D:\felipe\Projetos\ProjetosC#\SigleResponsabilityParticiple\obj\Debug\net9.0\ref\SigleResponsabilityParticiple.dll
+C:\Users\felipe\OneDrive\Área de Trabalho\MPP\SOLID\SigleResponsabilityParticiple\bin\Debug\net9.0\SigleResponsabilityParticiple.exe
+C:\Users\felipe\OneDrive\Área de Trabalho\MPP\SOLID\SigleResponsabilityParticiple\bin\Debug\net9.0\SigleResponsabilityParticiple.deps.json
+C:\Users\felipe\OneDrive\Área de Trabalho\MPP\SOLID\SigleResponsabilityParticiple\bin\Debug\net9.0\SigleResponsabilityParticiple.runtimeconfig.json
+C:\Users\felipe\OneDrive\Área de Trabalho\MPP\SOLID\SigleResponsabilityParticiple\bin\Debug\net9.0\SigleResponsabilityParticiple.dll
+C:\Users\felipe\OneDrive\Área de Trabalho\MPP\SOLID\SigleResponsabilityParticiple\bin\Debug\net9.0\SigleResponsabilityParticiple.pdb
+C:\Users\felipe\OneDrive\Área de Trabalho\MPP\SOLID\SigleResponsabilityParticiple\obj\Debug\net9.0\SigleResponsabilityParticiple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe\OneDrive\Área de Trabalho\MPP\SOLID\SigleResponsabilityParticiple\obj\Debug\net9.0\SigleResponsabilityParticiple.AssemblyInfoInputs.cache
+C:\Users\felipe\OneDrive\Área de Trabalho\MPP\SOLID\SigleResponsabilityParticiple\obj\Debug\net9.0\SigleResponsabilityParticiple.AssemblyInfo.cs
+C:\Users\felipe\OneDrive\Área de Trabalho\MPP\SOLID\SigleResponsabilityParticiple\obj\Debug\net9.0\SigleResponsabilityParticiple.csproj.CoreCompileInputs.cache
+C:\Users\felipe\OneDrive\Área de Trabalho\MPP\SOLID\SigleResponsabilityParticiple\obj\Debug\net9.0\SigleResponsabilityParticiple.sourcelink.json
+C:\Users\felipe\OneDrive\Área de Trabalho\MPP\SOLID\SigleResponsabilityParticiple\obj\Debug\net9.0\SigleResponsabilityParticiple.dll
+C:\Users\felipe\OneDrive\Área de Trabalho\MPP\SOLID\SigleResponsabilityParticiple\obj\Debug\net9.0\refint\SigleResponsabilityParticiple.dll
+C:\Users\felipe\OneDrive\Área de Trabalho\MPP\SOLID\SigleResponsabilityParticiple\obj\Debug\net9.0\SigleResponsabilityParticiple.pdb
+C:\Users\felipe\OneDrive\Área de Trabalho\MPP\SOLID\SigleResponsabilityParticiple\obj\Debug\net9.0\SigleResponsabilityParticiple.genruntimeconfig.cache
+C:\Users\felipe\OneDrive\Área de Trabalho\MPP\SOLID\SigleResponsabilityParticiple\obj\Debug\net9.0\ref\SigleResponsabilityParticiple.dll

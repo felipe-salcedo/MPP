@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felipe\\OneDrive\\Área de Trabalho\\MPP\\SOLID\\SigleResponsabilityParticiple\\SigleResponsabilityParticiple.csproj",
-      "projectName": "SigleResponsabilityParticiple",
-      "projectPath": "C:\\Users\\felipe\\OneDrive\\Área de Trabalho\\MPP\\SOLID\\SigleResponsabilityParticiple\\SigleResponsabilityParticiple.csproj",
+      "projectUniqueName": "C:\\Users\\felipe\\OneDrive\\Área de Trabalho\\MPP\\SOLID\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
+      "projectName": "OpenClosedPrinciple",
+      "projectPath": "C:\\Users\\felipe\\OneDrive\\Área de Trabalho\\MPP\\SOLID\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
       "packagesPath": "C:\\Users\\felipe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felipe\\OneDrive\\Área de Trabalho\\MPP\\SOLID\\SigleResponsabilityParticiple\\obj\\",
+      "outputPath": "C:\\Users\\felipe\\OneDrive\\Área de Trabalho\\MPP\\SOLID\\OpenClosedPrinciple\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\felipe\\AppData\\Roaming\\NuGet\\NuGet.Config"
