@@ -1,0 +1,14 @@
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\LiskovSubdtitucionPrinciple\bin\Debug\net9.0\LiskovSubdtitucionPrinciple.exe
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\LiskovSubdtitucionPrinciple\bin\Debug\net9.0\LiskovSubdtitucionPrinciple.deps.json
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\LiskovSubdtitucionPrinciple\bin\Debug\net9.0\LiskovSubdtitucionPrinciple.runtimeconfig.json
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\LiskovSubdtitucionPrinciple\bin\Debug\net9.0\LiskovSubdtitucionPrinciple.dll
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\LiskovSubdtitucionPrinciple\bin\Debug\net9.0\LiskovSubdtitucionPrinciple.pdb
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\LiskovSubdtitucionPrinciple\obj\Debug\net9.0\LiskovSubdtitucionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\LiskovSubdtitucionPrinciple\obj\Debug\net9.0\LiskovSubdtitucionPrinciple.AssemblyInfoInputs.cache
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\LiskovSubdtitucionPrinciple\obj\Debug\net9.0\LiskovSubdtitucionPrinciple.AssemblyInfo.cs
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\LiskovSubdtitucionPrinciple\obj\Debug\net9.0\LiskovSubdtitucionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\LiskovSubdtitucionPrinciple\obj\Debug\net9.0\LiskovSubdtitucionPrinciple.dll
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\LiskovSubdtitucionPrinciple\obj\Debug\net9.0\refint\LiskovSubdtitucionPrinciple.dll
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\LiskovSubdtitucionPrinciple\obj\Debug\net9.0\LiskovSubdtitucionPrinciple.pdb
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\LiskovSubdtitucionPrinciple\obj\Debug\net9.0\LiskovSubdtitucionPrinciple.genruntimeconfig.cache
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\LiskovSubdtitucionPrinciple\obj\Debug\net9.0\ref\LiskovSubdtitucionPrinciple.dll

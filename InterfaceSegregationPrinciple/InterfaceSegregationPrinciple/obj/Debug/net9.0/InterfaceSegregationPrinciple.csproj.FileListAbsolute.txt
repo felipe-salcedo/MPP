@@ -1,0 +1,14 @@
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net9.0\InterfaceSegregationPrinciple.exe
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net9.0\InterfaceSegregationPrinciple.deps.json
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net9.0\InterfaceSegregationPrinciple.runtimeconfig.json
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net9.0\InterfaceSegregationPrinciple.dll
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net9.0\InterfaceSegregationPrinciple.pdb
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net9.0\InterfaceSegregationPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net9.0\InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net9.0\InterfaceSegregationPrinciple.AssemblyInfo.cs
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net9.0\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net9.0\InterfaceSegregationPrinciple.dll
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net9.0\refint\InterfaceSegregationPrinciple.dll
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net9.0\InterfaceSegregationPrinciple.pdb
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net9.0\InterfaceSegregationPrinciple.genruntimeconfig.cache
+C:\Users\Luiz Gabriel\Documents\documentos escola\Solid\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net9.0\ref\InterfaceSegregationPrinciple.dll
