@@ -1,0 +1,14 @@
+C:\Users\0031432412008\Desktop\atividade\factoryAbstract\bin\Debug\net9.0\factoryAbstract.exe
+C:\Users\0031432412008\Desktop\atividade\factoryAbstract\bin\Debug\net9.0\factoryAbstract.deps.json
+C:\Users\0031432412008\Desktop\atividade\factoryAbstract\bin\Debug\net9.0\factoryAbstract.runtimeconfig.json
+C:\Users\0031432412008\Desktop\atividade\factoryAbstract\bin\Debug\net9.0\factoryAbstract.dll
+C:\Users\0031432412008\Desktop\atividade\factoryAbstract\bin\Debug\net9.0\factoryAbstract.pdb
+C:\Users\0031432412008\Desktop\atividade\factoryAbstract\obj\Debug\net9.0\factoryAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0031432412008\Desktop\atividade\factoryAbstract\obj\Debug\net9.0\factoryAbstract.AssemblyInfoInputs.cache
+C:\Users\0031432412008\Desktop\atividade\factoryAbstract\obj\Debug\net9.0\factoryAbstract.AssemblyInfo.cs
+C:\Users\0031432412008\Desktop\atividade\factoryAbstract\obj\Debug\net9.0\factoryAbstract.csproj.CoreCompileInputs.cache
+C:\Users\0031432412008\Desktop\atividade\factoryAbstract\obj\Debug\net9.0\factoryAbstract.dll
+C:\Users\0031432412008\Desktop\atividade\factoryAbstract\obj\Debug\net9.0\refint\factoryAbstract.dll
+C:\Users\0031432412008\Desktop\atividade\factoryAbstract\obj\Debug\net9.0\factoryAbstract.pdb
+C:\Users\0031432412008\Desktop\atividade\factoryAbstract\obj\Debug\net9.0\factoryAbstract.genruntimeconfig.cache
+C:\Users\0031432412008\Desktop\atividade\factoryAbstract\obj\Debug\net9.0\ref\factoryAbstract.dll
