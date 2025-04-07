@@ -1,0 +1,14 @@
+C:\Users\0031432412008\Documents\AtividadeProxy\AtividadeProxy\bin\Debug\net9.0\AtividadeProxy.exe
+C:\Users\0031432412008\Documents\AtividadeProxy\AtividadeProxy\bin\Debug\net9.0\AtividadeProxy.deps.json
+C:\Users\0031432412008\Documents\AtividadeProxy\AtividadeProxy\bin\Debug\net9.0\AtividadeProxy.runtimeconfig.json
+C:\Users\0031432412008\Documents\AtividadeProxy\AtividadeProxy\bin\Debug\net9.0\AtividadeProxy.dll
+C:\Users\0031432412008\Documents\AtividadeProxy\AtividadeProxy\bin\Debug\net9.0\AtividadeProxy.pdb
+C:\Users\0031432412008\Documents\AtividadeProxy\AtividadeProxy\obj\Debug\net9.0\AtividadeProxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0031432412008\Documents\AtividadeProxy\AtividadeProxy\obj\Debug\net9.0\AtividadeProxy.AssemblyInfoInputs.cache
+C:\Users\0031432412008\Documents\AtividadeProxy\AtividadeProxy\obj\Debug\net9.0\AtividadeProxy.AssemblyInfo.cs
+C:\Users\0031432412008\Documents\AtividadeProxy\AtividadeProxy\obj\Debug\net9.0\AtividadeProxy.csproj.CoreCompileInputs.cache
+C:\Users\0031432412008\Documents\AtividadeProxy\AtividadeProxy\obj\Debug\net9.0\AtividadeProxy.dll
+C:\Users\0031432412008\Documents\AtividadeProxy\AtividadeProxy\obj\Debug\net9.0\refint\AtividadeProxy.dll
+C:\Users\0031432412008\Documents\AtividadeProxy\AtividadeProxy\obj\Debug\net9.0\AtividadeProxy.pdb
+C:\Users\0031432412008\Documents\AtividadeProxy\AtividadeProxy\obj\Debug\net9.0\AtividadeProxy.genruntimeconfig.cache
+C:\Users\0031432412008\Documents\AtividadeProxy\AtividadeProxy\obj\Debug\net9.0\ref\AtividadeProxy.dll
