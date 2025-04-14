@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\0031432412008\\Documents\\MPP\\PROXY\\AtividadeProxy\\AtividadeProxy\\AtividadeProxy.csproj",
-      "projectName": "AtividadeProxy",
-      "projectPath": "C:\\Users\\0031432412008\\Documents\\MPP\\PROXY\\AtividadeProxy\\AtividadeProxy\\AtividadeProxy.csproj",
+      "projectUniqueName": "C:\\Users\\0031432412008\\Documents\\MPP\\ADAPTER\\ADAPTER\\ADAPTER.csproj",
+      "projectName": "ADAPTER",
+      "projectPath": "C:\\Users\\0031432412008\\Documents\\MPP\\ADAPTER\\ADAPTER\\ADAPTER.csproj",
       "packagesPath": "C:\\Users\\0031432412008\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\0031432412008\\Documents\\MPP\\PROXY\\AtividadeProxy\\AtividadeProxy\\obj\\",
+      "outputPath": "C:\\Users\\0031432412008\\Documents\\MPP\\ADAPTER\\ADAPTER\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

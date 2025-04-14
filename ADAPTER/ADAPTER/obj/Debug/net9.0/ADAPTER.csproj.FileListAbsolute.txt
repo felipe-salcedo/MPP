@@ -1,0 +1,15 @@
+C:\Users\0031432412008\Documents\MPP\ADAPTER\ADAPTER\bin\Debug\net9.0\ADAPTER.exe
+C:\Users\0031432412008\Documents\MPP\ADAPTER\ADAPTER\bin\Debug\net9.0\ADAPTER.deps.json
+C:\Users\0031432412008\Documents\MPP\ADAPTER\ADAPTER\bin\Debug\net9.0\ADAPTER.runtimeconfig.json
+C:\Users\0031432412008\Documents\MPP\ADAPTER\ADAPTER\bin\Debug\net9.0\ADAPTER.dll
+C:\Users\0031432412008\Documents\MPP\ADAPTER\ADAPTER\bin\Debug\net9.0\ADAPTER.pdb
+C:\Users\0031432412008\Documents\MPP\ADAPTER\ADAPTER\obj\Debug\net9.0\ADAPTER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0031432412008\Documents\MPP\ADAPTER\ADAPTER\obj\Debug\net9.0\ADAPTER.AssemblyInfoInputs.cache
+C:\Users\0031432412008\Documents\MPP\ADAPTER\ADAPTER\obj\Debug\net9.0\ADAPTER.AssemblyInfo.cs
+C:\Users\0031432412008\Documents\MPP\ADAPTER\ADAPTER\obj\Debug\net9.0\ADAPTER.csproj.CoreCompileInputs.cache
+C:\Users\0031432412008\Documents\MPP\ADAPTER\ADAPTER\obj\Debug\net9.0\ADAPTER.sourcelink.json
+C:\Users\0031432412008\Documents\MPP\ADAPTER\ADAPTER\obj\Debug\net9.0\ADAPTER.dll
+C:\Users\0031432412008\Documents\MPP\ADAPTER\ADAPTER\obj\Debug\net9.0\refint\ADAPTER.dll
+C:\Users\0031432412008\Documents\MPP\ADAPTER\ADAPTER\obj\Debug\net9.0\ADAPTER.pdb
+C:\Users\0031432412008\Documents\MPP\ADAPTER\ADAPTER\obj\Debug\net9.0\ADAPTER.genruntimeconfig.cache
+C:\Users\0031432412008\Documents\MPP\ADAPTER\ADAPTER\obj\Debug\net9.0\ref\ADAPTER.dll
