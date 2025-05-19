@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Facade_Atv_Pres")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adf6340a18c752ec1578465e728cb03c9e3b6204")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43f87a30bc420ce8f57e02ecad1124a61f0b6664")]
 [assembly: System.Reflection.AssemblyProductAttribute("Facade_Atv_Pres")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Facade_Atv_Pres")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
