@@ -1,0 +1,14 @@
+C:\Users\0031432412008\Desktop\FACADE\AtividadeFacade\bin\Debug\net9.0\AtividadeFacade.exe
+C:\Users\0031432412008\Desktop\FACADE\AtividadeFacade\bin\Debug\net9.0\AtividadeFacade.deps.json
+C:\Users\0031432412008\Desktop\FACADE\AtividadeFacade\bin\Debug\net9.0\AtividadeFacade.runtimeconfig.json
+C:\Users\0031432412008\Desktop\FACADE\AtividadeFacade\bin\Debug\net9.0\AtividadeFacade.dll
+C:\Users\0031432412008\Desktop\FACADE\AtividadeFacade\bin\Debug\net9.0\AtividadeFacade.pdb
+C:\Users\0031432412008\Desktop\FACADE\AtividadeFacade\obj\Debug\net9.0\AtividadeFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0031432412008\Desktop\FACADE\AtividadeFacade\obj\Debug\net9.0\AtividadeFacade.AssemblyInfoInputs.cache
+C:\Users\0031432412008\Desktop\FACADE\AtividadeFacade\obj\Debug\net9.0\AtividadeFacade.AssemblyInfo.cs
+C:\Users\0031432412008\Desktop\FACADE\AtividadeFacade\obj\Debug\net9.0\AtividadeFacade.csproj.CoreCompileInputs.cache
+C:\Users\0031432412008\Desktop\FACADE\AtividadeFacade\obj\Debug\net9.0\AtividadeFacade.dll
+C:\Users\0031432412008\Desktop\FACADE\AtividadeFacade\obj\Debug\net9.0\refint\AtividadeFacade.dll
+C:\Users\0031432412008\Desktop\FACADE\AtividadeFacade\obj\Debug\net9.0\AtividadeFacade.pdb
+C:\Users\0031432412008\Desktop\FACADE\AtividadeFacade\obj\Debug\net9.0\AtividadeFacade.genruntimeconfig.cache
+C:\Users\0031432412008\Desktop\FACADE\AtividadeFacade\obj\Debug\net9.0\ref\AtividadeFacade.dll
