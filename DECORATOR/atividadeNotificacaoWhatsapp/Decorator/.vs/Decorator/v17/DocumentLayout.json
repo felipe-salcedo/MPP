@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Enrico\\source\\repos\\Decorator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39267C3C-C5B5-4092-96B6-61FDAFA6DB92}|Decorator\\Decorator.csproj|c:\\users\\enrico\\source\\repos\\decorator\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39267C3C-C5B5-4092-96B6-61FDAFA6DB92}|Decorator\\Decorator.csproj|solutionrelative:decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39267C3C-C5B5-4092-96B6-61FDAFA6DB92}|Decorator\\Decorator.csproj|c:\\users\\enrico\\source\\repos\\decorator\\decorator\\slacknotifierdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39267C3C-C5B5-4092-96B6-61FDAFA6DB92}|Decorator\\Decorator.csproj|solutionrelative:decorator\\slacknotifierdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39267C3C-C5B5-4092-96B6-61FDAFA6DB92}|Decorator\\Decorator.csproj|c:\\users\\enrico\\source\\repos\\decorator\\decorator\\smsnotifierdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39267C3C-C5B5-4092-96B6-61FDAFA6DB92}|Decorator\\Decorator.csproj|solutionrelative:decorator\\smsnotifierdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39267C3C-C5B5-4092-96B6-61FDAFA6DB92}|Decorator\\Decorator.csproj|c:\\users\\enrico\\source\\repos\\decorator\\decorator\\notifierdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39267C3C-C5B5-4092-96B6-61FDAFA6DB92}|Decorator\\Decorator.csproj|solutionrelative:decorator\\notifierdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39267C3C-C5B5-4092-96B6-61FDAFA6DB92}|Decorator\\Decorator.csproj|c:\\users\\enrico\\source\\repos\\decorator\\decorator\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39267C3C-C5B5-4092-96B6-61FDAFA6DB92}|Decorator\\Decorator.csproj|solutionrelative:decorator\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39267C3C-C5B5-4092-96B6-61FDAFA6DB92}|Decorator\\Decorator.csproj|c:\\users\\enrico\\source\\repos\\decorator\\decorator\\inotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39267C3C-C5B5-4092-96B6-61FDAFA6DB92}|Decorator\\Decorator.csproj|solutionrelative:decorator\\inotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SlackNotifierDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Enrico\\source\\repos\\Decorator\\Decorator\\SlackNotifierDecorator.cs",
+              "RelativeDocumentMoniker": "Decorator\\SlackNotifierDecorator.cs",
+              "ToolTip": "C:\\Users\\Enrico\\source\\repos\\Decorator\\Decorator\\SlackNotifierDecorator.cs",
+              "RelativeToolTip": "Decorator\\SlackNotifierDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:41:07.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SMSNotifierDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Enrico\\source\\repos\\Decorator\\Decorator\\SMSNotifierDecorator.cs",
+              "RelativeDocumentMoniker": "Decorator\\SMSNotifierDecorator.cs",
+              "ToolTip": "C:\\Users\\Enrico\\source\\repos\\Decorator\\Decorator\\SMSNotifierDecorator.cs",
+              "RelativeToolTip": "Decorator\\SMSNotifierDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:40:45.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotifierDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Enrico\\source\\repos\\Decorator\\Decorator\\NotifierDecorator.cs",
+              "RelativeDocumentMoniker": "Decorator\\NotifierDecorator.cs",
+              "ToolTip": "C:\\Users\\Enrico\\source\\repos\\Decorator\\Decorator\\NotifierDecorator.cs",
+              "RelativeToolTip": "Decorator\\NotifierDecorator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:39:51.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\Enrico\\source\\repos\\Decorator\\Decorator\\EmailNotifier.cs",
+              "RelativeDocumentMoniker": "Decorator\\EmailNotifier.cs",
+              "ToolTip": "C:\\Users\\Enrico\\source\\repos\\Decorator\\Decorator\\EmailNotifier.cs",
+              "RelativeToolTip": "Decorator\\EmailNotifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:36:50.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INotifier.cs",
+              "DocumentMoniker": "C:\\Users\\Enrico\\source\\repos\\Decorator\\Decorator\\INotifier.cs",
+              "RelativeDocumentMoniker": "Decorator\\INotifier.cs",
+              "ToolTip": "C:\\Users\\Enrico\\source\\repos\\Decorator\\Decorator\\INotifier.cs",
+              "RelativeToolTip": "Decorator\\INotifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:36:08.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Enrico\\source\\repos\\Decorator\\Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "Decorator\\Program.cs",
+              "ToolTip": "C:\\Users\\Enrico\\source\\repos\\Decorator\\Decorator\\Program.cs",
+              "RelativeToolTip": "Decorator\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwDEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:35:04.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
