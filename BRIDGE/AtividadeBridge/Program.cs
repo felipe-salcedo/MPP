@@ -1,13 +1,13 @@
 ﻿using System;
 
-// 1. Interface da Plataforma
+// Interface da Plataforma
 interface IPlatform
 {
     void AuthToken();
     void ConfigureRMTP();
 }
 
-// 2. Implementações concretas
+// Implementações concretas
 
 class Facebook : IPlatform
 {
@@ -51,7 +51,7 @@ class Twitch : IPlatform
     }
 }
 
-// 3. Abstração: Live
+// Abstração: Live
 
 class Live
 {
@@ -70,7 +70,7 @@ class Live
     }
 }
 
-// 4. Extensão da abstração (opcional)
+// Extensão da abstração (opcional)
 class AdvancedLive : Live
 {
     public AdvancedLive(IPlatform platform) : base(platform) { }
@@ -86,8 +86,6 @@ class AdvancedLive : Live
         Console.WriteLine("Ativando legendas ao vivo.\n");
     }
 }
-
-// 5. Teste com a classe Program
 
 class Program
 {
