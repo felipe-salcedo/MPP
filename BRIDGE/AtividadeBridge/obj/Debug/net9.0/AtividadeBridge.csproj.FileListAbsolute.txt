@@ -1,0 +1,14 @@
+C:\Users\0031432412008\Desktop\BRIDGE\AtividadeBridge\bin\Debug\net9.0\AtividadeBridge.exe
+C:\Users\0031432412008\Desktop\BRIDGE\AtividadeBridge\bin\Debug\net9.0\AtividadeBridge.deps.json
+C:\Users\0031432412008\Desktop\BRIDGE\AtividadeBridge\bin\Debug\net9.0\AtividadeBridge.runtimeconfig.json
+C:\Users\0031432412008\Desktop\BRIDGE\AtividadeBridge\bin\Debug\net9.0\AtividadeBridge.dll
+C:\Users\0031432412008\Desktop\BRIDGE\AtividadeBridge\bin\Debug\net9.0\AtividadeBridge.pdb
+C:\Users\0031432412008\Desktop\BRIDGE\AtividadeBridge\obj\Debug\net9.0\AtividadeBridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0031432412008\Desktop\BRIDGE\AtividadeBridge\obj\Debug\net9.0\AtividadeBridge.AssemblyInfoInputs.cache
+C:\Users\0031432412008\Desktop\BRIDGE\AtividadeBridge\obj\Debug\net9.0\AtividadeBridge.AssemblyInfo.cs
+C:\Users\0031432412008\Desktop\BRIDGE\AtividadeBridge\obj\Debug\net9.0\AtividadeBridge.csproj.CoreCompileInputs.cache
+C:\Users\0031432412008\Desktop\BRIDGE\AtividadeBridge\obj\Debug\net9.0\AtividadeBridge.dll
+C:\Users\0031432412008\Desktop\BRIDGE\AtividadeBridge\obj\Debug\net9.0\refint\AtividadeBridge.dll
+C:\Users\0031432412008\Desktop\BRIDGE\AtividadeBridge\obj\Debug\net9.0\AtividadeBridge.pdb
+C:\Users\0031432412008\Desktop\BRIDGE\AtividadeBridge\obj\Debug\net9.0\AtividadeBridge.genruntimeconfig.cache
+C:\Users\0031432412008\Desktop\BRIDGE\AtividadeBridge\obj\Debug\net9.0\ref\AtividadeBridge.dll
