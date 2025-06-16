@@ -1,0 +1,14 @@
+C:\Users\0031432412008\Desktop\COMPOSITE\DesafioComposite\bin\Debug\net9.0\DesafioComposite.exe
+C:\Users\0031432412008\Desktop\COMPOSITE\DesafioComposite\bin\Debug\net9.0\DesafioComposite.deps.json
+C:\Users\0031432412008\Desktop\COMPOSITE\DesafioComposite\bin\Debug\net9.0\DesafioComposite.runtimeconfig.json
+C:\Users\0031432412008\Desktop\COMPOSITE\DesafioComposite\bin\Debug\net9.0\DesafioComposite.dll
+C:\Users\0031432412008\Desktop\COMPOSITE\DesafioComposite\bin\Debug\net9.0\DesafioComposite.pdb
+C:\Users\0031432412008\Desktop\COMPOSITE\DesafioComposite\obj\Debug\net9.0\DesafioComposite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0031432412008\Desktop\COMPOSITE\DesafioComposite\obj\Debug\net9.0\DesafioComposite.AssemblyInfoInputs.cache
+C:\Users\0031432412008\Desktop\COMPOSITE\DesafioComposite\obj\Debug\net9.0\DesafioComposite.AssemblyInfo.cs
+C:\Users\0031432412008\Desktop\COMPOSITE\DesafioComposite\obj\Debug\net9.0\DesafioComposite.csproj.CoreCompileInputs.cache
+C:\Users\0031432412008\Desktop\COMPOSITE\DesafioComposite\obj\Debug\net9.0\DesafioComposite.dll
+C:\Users\0031432412008\Desktop\COMPOSITE\DesafioComposite\obj\Debug\net9.0\refint\DesafioComposite.dll
+C:\Users\0031432412008\Desktop\COMPOSITE\DesafioComposite\obj\Debug\net9.0\DesafioComposite.pdb
+C:\Users\0031432412008\Desktop\COMPOSITE\DesafioComposite\obj\Debug\net9.0\DesafioComposite.genruntimeconfig.cache
+C:\Users\0031432412008\Desktop\COMPOSITE\DesafioComposite\obj\Debug\net9.0\ref\DesafioComposite.dll

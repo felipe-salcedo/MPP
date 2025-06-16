@@ -1,0 +1,14 @@
+C:\Users\0031432412008\Desktop\COMPOSITE\AtividadeComposite\bin\Debug\net9.0\AtividadeComposite.exe
+C:\Users\0031432412008\Desktop\COMPOSITE\AtividadeComposite\bin\Debug\net9.0\AtividadeComposite.deps.json
+C:\Users\0031432412008\Desktop\COMPOSITE\AtividadeComposite\bin\Debug\net9.0\AtividadeComposite.runtimeconfig.json
+C:\Users\0031432412008\Desktop\COMPOSITE\AtividadeComposite\bin\Debug\net9.0\AtividadeComposite.dll
+C:\Users\0031432412008\Desktop\COMPOSITE\AtividadeComposite\bin\Debug\net9.0\AtividadeComposite.pdb
+C:\Users\0031432412008\Desktop\COMPOSITE\AtividadeComposite\obj\Debug\net9.0\AtividadeComposite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0031432412008\Desktop\COMPOSITE\AtividadeComposite\obj\Debug\net9.0\AtividadeComposite.AssemblyInfoInputs.cache
+C:\Users\0031432412008\Desktop\COMPOSITE\AtividadeComposite\obj\Debug\net9.0\AtividadeComposite.AssemblyInfo.cs
+C:\Users\0031432412008\Desktop\COMPOSITE\AtividadeComposite\obj\Debug\net9.0\AtividadeComposite.csproj.CoreCompileInputs.cache
+C:\Users\0031432412008\Desktop\COMPOSITE\AtividadeComposite\obj\Debug\net9.0\AtividadeComposite.dll
+C:\Users\0031432412008\Desktop\COMPOSITE\AtividadeComposite\obj\Debug\net9.0\refint\AtividadeComposite.dll
+C:\Users\0031432412008\Desktop\COMPOSITE\AtividadeComposite\obj\Debug\net9.0\AtividadeComposite.pdb
+C:\Users\0031432412008\Desktop\COMPOSITE\AtividadeComposite\obj\Debug\net9.0\AtividadeComposite.genruntimeconfig.cache
+C:\Users\0031432412008\Desktop\COMPOSITE\AtividadeComposite\obj\Debug\net9.0\ref\AtividadeComposite.dll
