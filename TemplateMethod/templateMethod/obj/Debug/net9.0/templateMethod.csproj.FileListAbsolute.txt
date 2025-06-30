@@ -1,0 +1,14 @@
+C:\Users\Luiz Gabriel\Downloads\projeto\templateMethod\bin\Debug\net9.0\templateMethod.exe
+C:\Users\Luiz Gabriel\Downloads\projeto\templateMethod\bin\Debug\net9.0\templateMethod.deps.json
+C:\Users\Luiz Gabriel\Downloads\projeto\templateMethod\bin\Debug\net9.0\templateMethod.runtimeconfig.json
+C:\Users\Luiz Gabriel\Downloads\projeto\templateMethod\bin\Debug\net9.0\templateMethod.dll
+C:\Users\Luiz Gabriel\Downloads\projeto\templateMethod\bin\Debug\net9.0\templateMethod.pdb
+C:\Users\Luiz Gabriel\Downloads\projeto\templateMethod\obj\Debug\net9.0\templateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Gabriel\Downloads\projeto\templateMethod\obj\Debug\net9.0\templateMethod.AssemblyInfoInputs.cache
+C:\Users\Luiz Gabriel\Downloads\projeto\templateMethod\obj\Debug\net9.0\templateMethod.AssemblyInfo.cs
+C:\Users\Luiz Gabriel\Downloads\projeto\templateMethod\obj\Debug\net9.0\templateMethod.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Gabriel\Downloads\projeto\templateMethod\obj\Debug\net9.0\templateMethod.dll
+C:\Users\Luiz Gabriel\Downloads\projeto\templateMethod\obj\Debug\net9.0\refint\templateMethod.dll
+C:\Users\Luiz Gabriel\Downloads\projeto\templateMethod\obj\Debug\net9.0\templateMethod.pdb
+C:\Users\Luiz Gabriel\Downloads\projeto\templateMethod\obj\Debug\net9.0\templateMethod.genruntimeconfig.cache
+C:\Users\Luiz Gabriel\Downloads\projeto\templateMethod\obj\Debug\net9.0\ref\templateMethod.dll
