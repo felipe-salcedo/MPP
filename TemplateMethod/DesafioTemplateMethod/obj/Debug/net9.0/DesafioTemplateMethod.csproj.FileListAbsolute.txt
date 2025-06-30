@@ -1,0 +1,14 @@
+C:\Users\Luiz Gabriel\Downloads\TemplateMethod\DesafioTemplateMethod\bin\Debug\net9.0\DesafioTemplateMethod.exe
+C:\Users\Luiz Gabriel\Downloads\TemplateMethod\DesafioTemplateMethod\bin\Debug\net9.0\DesafioTemplateMethod.deps.json
+C:\Users\Luiz Gabriel\Downloads\TemplateMethod\DesafioTemplateMethod\bin\Debug\net9.0\DesafioTemplateMethod.runtimeconfig.json
+C:\Users\Luiz Gabriel\Downloads\TemplateMethod\DesafioTemplateMethod\bin\Debug\net9.0\DesafioTemplateMethod.dll
+C:\Users\Luiz Gabriel\Downloads\TemplateMethod\DesafioTemplateMethod\bin\Debug\net9.0\DesafioTemplateMethod.pdb
+C:\Users\Luiz Gabriel\Downloads\TemplateMethod\DesafioTemplateMethod\obj\Debug\net9.0\DesafioTemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Gabriel\Downloads\TemplateMethod\DesafioTemplateMethod\obj\Debug\net9.0\DesafioTemplateMethod.AssemblyInfoInputs.cache
+C:\Users\Luiz Gabriel\Downloads\TemplateMethod\DesafioTemplateMethod\obj\Debug\net9.0\DesafioTemplateMethod.AssemblyInfo.cs
+C:\Users\Luiz Gabriel\Downloads\TemplateMethod\DesafioTemplateMethod\obj\Debug\net9.0\DesafioTemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Gabriel\Downloads\TemplateMethod\DesafioTemplateMethod\obj\Debug\net9.0\DesafioTemplateMethod.dll
+C:\Users\Luiz Gabriel\Downloads\TemplateMethod\DesafioTemplateMethod\obj\Debug\net9.0\refint\DesafioTemplateMethod.dll
+C:\Users\Luiz Gabriel\Downloads\TemplateMethod\DesafioTemplateMethod\obj\Debug\net9.0\DesafioTemplateMethod.pdb
+C:\Users\Luiz Gabriel\Downloads\TemplateMethod\DesafioTemplateMethod\obj\Debug\net9.0\DesafioTemplateMethod.genruntimeconfig.cache
+C:\Users\Luiz Gabriel\Downloads\TemplateMethod\DesafioTemplateMethod\obj\Debug\net9.0\ref\DesafioTemplateMethod.dll

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "templateMethod", "templateMethod\templateMethod.csproj", "{DF6758FD-3ED1-49A3-AD66-2A7CABDDB1F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioTemplateMethod", "DesafioTemplateMethod\DesafioTemplateMethod.csproj", "{F24F449A-3BEF-43C0-A0BC-116D17962B62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{DF6758FD-3ED1-49A3-AD66-2A7CABDDB1F0}.Release|x64.Build.0 = Release|Any CPU
 		{DF6758FD-3ED1-49A3-AD66-2A7CABDDB1F0}.Release|x86.ActiveCfg = Release|Any CPU
 		{DF6758FD-3ED1-49A3-AD66-2A7CABDDB1F0}.Release|x86.Build.0 = Release|Any CPU
+		{F24F449A-3BEF-43C0-A0BC-116D17962B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24F449A-3BEF-43C0-A0BC-116D17962B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24F449A-3BEF-43C0-A0BC-116D17962B62}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F24F449A-3BEF-43C0-A0BC-116D17962B62}.Debug|x64.Build.0 = Debug|Any CPU
+		{F24F449A-3BEF-43C0-A0BC-116D17962B62}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F24F449A-3BEF-43C0-A0BC-116D17962B62}.Debug|x86.Build.0 = Debug|Any CPU
+		{F24F449A-3BEF-43C0-A0BC-116D17962B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24F449A-3BEF-43C0-A0BC-116D17962B62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F24F449A-3BEF-43C0-A0BC-116D17962B62}.Release|x64.ActiveCfg = Release|Any CPU
+		{F24F449A-3BEF-43C0-A0BC-116D17962B62}.Release|x64.Build.0 = Release|Any CPU
+		{F24F449A-3BEF-43C0-A0BC-116D17962B62}.Release|x86.ActiveCfg = Release|Any CPU
+		{F24F449A-3BEF-43C0-A0BC-116D17962B62}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

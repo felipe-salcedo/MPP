@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luiz Gabriel\\Downloads\\TemplateMethod\\templateMethod\\templateMethod.csproj",
-      "projectName": "templateMethod",
-      "projectPath": "C:\\Users\\Luiz Gabriel\\Downloads\\TemplateMethod\\templateMethod\\templateMethod.csproj",
+      "projectUniqueName": "C:\\Users\\Luiz Gabriel\\Downloads\\TemplateMethod\\DesafioTemplateMethod\\DesafioTemplateMethod.csproj",
+      "projectName": "DesafioTemplateMethod",
+      "projectPath": "C:\\Users\\Luiz Gabriel\\Downloads\\TemplateMethod\\DesafioTemplateMethod\\DesafioTemplateMethod.csproj",
       "packagesPath": "C:\\Users\\Luiz Gabriel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luiz Gabriel\\Downloads\\TemplateMethod\\templateMethod\\obj\\",
+      "outputPath": "C:\\Users\\Luiz Gabriel\\Downloads\\TemplateMethod\\DesafioTemplateMethod\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luiz Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config"
