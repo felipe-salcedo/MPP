@@ -1,0 +1,5 @@
+﻿RELATÓRIO TXT - Biblioteca
+-------------------------
+Design Patterns - Gang of Four | Erich Gamma - Addison-Wesley (1995) | Emprestado: False
+Design Patterns - Gang of Four (ebook) | Erich Gamma - Addison-Wesley (1995) | Emprestado: False
+Clean Code | Robert C. Martin - Pearson (2008) | Emprestado: True

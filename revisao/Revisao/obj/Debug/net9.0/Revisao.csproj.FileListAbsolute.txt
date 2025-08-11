@@ -1,0 +1,14 @@
+C:\Users\0031432412008\Desktop\revisao\Revisao\bin\Debug\net9.0\Revisao.exe
+C:\Users\0031432412008\Desktop\revisao\Revisao\bin\Debug\net9.0\Revisao.deps.json
+C:\Users\0031432412008\Desktop\revisao\Revisao\bin\Debug\net9.0\Revisao.runtimeconfig.json
+C:\Users\0031432412008\Desktop\revisao\Revisao\bin\Debug\net9.0\Revisao.dll
+C:\Users\0031432412008\Desktop\revisao\Revisao\bin\Debug\net9.0\Revisao.pdb
+C:\Users\0031432412008\Desktop\revisao\Revisao\obj\Debug\net9.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0031432412008\Desktop\revisao\Revisao\obj\Debug\net9.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\0031432412008\Desktop\revisao\Revisao\obj\Debug\net9.0\Revisao.AssemblyInfo.cs
+C:\Users\0031432412008\Desktop\revisao\Revisao\obj\Debug\net9.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\0031432412008\Desktop\revisao\Revisao\obj\Debug\net9.0\Revisao.dll
+C:\Users\0031432412008\Desktop\revisao\Revisao\obj\Debug\net9.0\refint\Revisao.dll
+C:\Users\0031432412008\Desktop\revisao\Revisao\obj\Debug\net9.0\Revisao.pdb
+C:\Users\0031432412008\Desktop\revisao\Revisao\obj\Debug\net9.0\Revisao.genruntimeconfig.cache
+C:\Users\0031432412008\Desktop\revisao\Revisao\obj\Debug\net9.0\ref\Revisao.dll
